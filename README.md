@@ -27,7 +27,7 @@ I expect to graduate January 2025 and I'm looking for opportunities in industry,
 - [Email](mailto:lhcubill@umich.edu)
 - [LinkedIn](https://www.linkedin.com/in/lhcubillos/)
 - [Twitter](https://twitter.com/lhcubillosg)
-- [CV](https://drive.google.com/open?id=1OSLCG2OiJcQVf5JiJ-GRYYzn4jPjkOXt&usp=drive_fs)
+- [CV](https://drive.google.com/file/d/1LufFgk7v4F_rXWycc2AMXim5a_rxO5X9/view?usp=sharing)
 
 
 <!--
