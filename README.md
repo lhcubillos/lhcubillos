@@ -13,7 +13,6 @@ I expect to graduate January 2025 and I'm looking for opportunities in industry,
 - _Balancing Memorization and Generalization in RNNs for High Performance Brain-Machine Interfaces_ (2023, NeurIPS, third author, available [here](https://www.biorxiv.org/content/10.1101/2023.05.28.542435v1.full.pdf))
 - _Error detection and correction in intracortical brain–machine interfaces controlling two finger groups_ (2023, Journal of Neural Engineering, fifth author, available [here](https://iopscience.iop.org/article/10.1088/1741-2552/acef95/meta))
 - _Breaking the barriers to designing online experiments: A novel open-source platform for supporting procedural skill learning experiments_ (2023, Computers in Biology and Medicine, first author, available [here](https://www.sciencedirect.com/science/article/pii/S0010482523000926))
-- _Motor slacking during resisted treadmill walking: Can visual feedback of kinematics reduce this behavior?_ (2021, Gait & Posture, second author, available [here](https://www.sciencedirect.com/science/article/pii/S0966636221004999))
 
 ## 🚀 Other interesting projects
 - [High Five](https://hackster.io/high-five/protesis-mioelectrica-de-mano-1159a1): we created an open-source myoelectric upper-limb prosthesis fully made in Chile. The CAD and PCB designs are available online, as is all the code necessary to replicate the project. Look [here](https://brainchile.cl/generacion/high-five/) and [here](https://jumpchile.com/ganador/high-five/) for some awards we received for this project.
