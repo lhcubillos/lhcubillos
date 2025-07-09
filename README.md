@@ -1,6 +1,6 @@
 # Hi, I'm Luis 👋
 
-Access my full website [here](lhcubillos.github.io).
+Access my full website [here](https://lhcubillos.github.io).
 
 ## About Me
 I'm a Ph.D. in Robotics from the [Chestek Lab](https://chestekresearch.engin.umich.edu/) at University of Michigan. During my Ph.D., I worked on brain-machine interfaces for finger movement decoding. I did my undergrad in Chile, majoring in robotics and computer science, and love working on projects that can improve people's lives through robotics.
