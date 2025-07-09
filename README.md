@@ -3,16 +3,17 @@
 Access my full website [here](lhcubillos.github.io).
 
 ## About Me
-I'm a Robotics Ph.D. from the the [Chestek Lab](https://chestekresearch.engin.umich.edu/) at University of Michigan. During my Ph.D., I worked on brain-machine interfaces for finger movement decoding. I did my undergrad in Chile, majoring in robotics and computer science, and love working on projects that can improve people's lives through robotics.
-I expect to graduate January 2025 and I'm looking for opportunities in industry, specifically in neurotech or neuromotor control.
+I'm a Ph.D. in Robotics from the [Chestek Lab](https://chestekresearch.engin.umich.edu/) at University of Michigan. During my Ph.D., I worked on brain-machine interfaces for finger movement decoding. I did my undergrad in Chile, majoring in robotics and computer science, and love working on projects that can improve people's lives through robotics.
+I'm currently doing a postdoc at the Chestek Lab, working on improving continuous decoding of EMG signals from upper and lower limb amputees for prosthetic control.
 
 ## 🔭 I'm currently working on:
 1. [_Compression or noise reduction: the role of dimensionality reduction methods in understanding the brain-muscle relationship_](https://drive.google.com/file/d/1qzoZKnchd1lAl9XmRiMehS9bmmAmsGjF/view?usp=sharing): dimensionality reduction methods are widely used to study brain and muscle latent factors, but it is unclear whether these techniques are able to remove noise or are just an efficient way of compressing the data. We have found that, when trying to predict muscle activity from neural activity, dim. reduction methods were able to compress very effectively, but didn't show signs of actually denoising the data.
 
 ## 📃 Journal Publications and selected conferences
-- _Exploring the trade-off between deep-learning and explainable models for brain-machine interfaces_: (NeurIPS 2024, first author, available [here](https://www.biorxiv.org/content/10.1101/2024.10.03.616126v1)). 
+- _Exploring the trade-off between deep-learning and explainable models for brain-machine interfaces_: (NeurIPS 2024, first author, available [here]([https://www.biorxiv.org/content/10.1101/2024.10.03.616126v1](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f1cf02ce09757f57c3b93c0db83181e0-Abstract-Conference.html))).
+- _Exploring Synergies in Brain-Machine Interfaces: Compression vs. Performance_: (bioRxiv 2025, first author, available [here](https://www.biorxiv.org/content/10.1101/2025.02.03.636273v1). Currently under review at the Journal of Neural Engineering.
 - _Reliability and Minimal Detectable Change of Stiffness and Other Mechanical Properties of the Ankle Joint in Standing and Walking_ (2023, Gait & Posture, first author, available [here](https://www.sciencedirect.com/science/article/pii/S0966636223014881))
-- _Balancing Memorization and Generalization in RNNs for High Performance Brain-Machine Interfaces_ (2023, NeurIPS, third author, available [here](https://www.biorxiv.org/content/10.1101/2023.05.28.542435v1.full.pdf))
+- _Balancing Memorization and Generalization in RNNs for High Performance Brain-Machine Interfaces_ (2023, NeurIPS, third author, available [here]([https://www.biorxiv.org/content/10.1101/2023.05.28.542435v1.full.pdf](https://proceedings.neurips.cc/paper_files/paper/2023/hash/17a234c91f746d9625a75cf8a8731ee2-Abstract-Conference.html)))
 - _Error detection and correction in intracortical brain–machine interfaces controlling two finger groups_ (2023, Journal of Neural Engineering, fifth author, available [here](https://iopscience.iop.org/article/10.1088/1741-2552/acef95/meta))
 - _Breaking the barriers to designing online experiments: A novel open-source platform for supporting procedural skill learning experiments_ (2023, Computers in Biology and Medicine, first author, available [here](https://www.sciencedirect.com/science/article/pii/S0010482523000926))
 
@@ -22,7 +23,7 @@ I expect to graduate January 2025 and I'm looking for opportunities in industry,
 
 ## 💻 Skills
 - Languages: Python, C, C++, Matlab
-- Tools: ROS, LCM, Git, Linux, real-time systems
+- Tools: ROS, LCM, Git, Linux, real-time systems, Redis
 
 ## 📫 How to Reach Me
 - [Email](mailto:lhcubill@umich.edu)
